@@ -8,17 +8,18 @@ version = "0.1.0"
 description = "AI-first CLI for Google Slides — deterministic, JSON-native, agent-optimized"
 readme = "README.md"
 requires-python = ">=3.12"
-license = { text = "MIT" }
+license = "MIT"
 authors = [{ name = "slides-agent contributors" }]
 keywords = ["google-slides", "cli", "ai", "agent", "automation"]
 classifiers = [
     "Development Status :: 3 - Alpha",
     "Environment :: Console",
     "Intended Audience :: Developers",
+    "Operating System :: OS Independent",
     "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
     "Topic :: Office/Business :: Office Suites",
 ]
-
 dependencies = [
     "typer[all]>=0.12",
     "pydantic>=2.0",
@@ -28,6 +29,12 @@ dependencies = [
     "rich>=13.0",
     "httplib2>=0.22.0",
 ]
+
+[project.urls]
+Homepage = "https://github.com/lmarte17/slides-goog"
+Repository = "https://github.com/lmarte17/slides-goog"
+Documentation = "https://github.com/lmarte17/slides-goog#readme"
+Issues = "https://github.com/lmarte17/slides-goog/issues"
 
 [project.optional-dependencies]
 dev = [
