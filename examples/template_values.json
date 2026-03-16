@@ -1,0 +1,12 @@
+{
+  "customer": "Acme Corporation",
+  "quarter": "Q1 2025",
+  "date": "January 15, 2025",
+  "presenter": "Jane Smith",
+  "arr": "$4.2M",
+  "arr_growth": "+38% YoY",
+  "new_customers": "47",
+  "churn_rate": "2.1%",
+  "nps_score": "72",
+  "next_quarter_goal": "$5.5M ARR"
+}

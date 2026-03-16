@@ -1,0 +1,32 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+.env
+.venv
+venv/
+env/
+.pytest_cache/
+.coverage
+htmlcov/
+.ruff_cache/
+*.log
+
+# Google auth tokens (never commit these)
+token.json
+*token*.json
+client_secret*.json
+credentials*.json
+
+# Claude Code project memory (personal)
+.claude/
+
+# Stray pip source install
+src/pip/
+src/pip
+src/*.egg-info/

@@ -1,0 +1,58 @@
+{
+  "ok": true,
+  "presentation_id": "1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgVE2upms",
+  "operation_count": 7,
+  "operations": [
+    {
+      "type": "replace_text",
+      "presentation_id": "1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgVE2upms",
+      "find": "{{customer}}",
+      "replace": "Acme Corporation",
+      "match_case": true
+    },
+    {
+      "type": "replace_text",
+      "presentation_id": "1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgVE2upms",
+      "find": "{{quarter}}",
+      "replace": "Q1 2025",
+      "match_case": true
+    },
+    {
+      "type": "update_text",
+      "presentation_id": "1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgVE2upms",
+      "slide_id": "g2f4a8b1c_1",
+      "element_id": "g2f4a8b1c_1_body",
+      "text": "ARR: $4.2M (+38% YoY)\nNew customers: 47\nChurn rate: 2.1%\nNPS score: 72"
+    },
+    {
+      "type": "set_notes",
+      "presentation_id": "1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgVE2upms",
+      "slide_id": "g2f4a8b1c_0",
+      "text": "Welcome everyone. Today we'll cover Q1 highlights, key wins, and roadmap.\nTotal runtime: 45 minutes."
+    },
+    {
+      "type": "set_notes",
+      "presentation_id": "1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgVE2upms",
+      "slide_id": "g2f4a8b1c_1",
+      "text": "Highlight the 38% ARR growth. Compare to industry average of 25%."
+    },
+    {
+      "type": "create_slide",
+      "presentation_id": "1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgVE2upms",
+      "insertion_index": 2,
+      "layout": "TITLE_AND_BODY"
+    },
+    {
+      "type": "change_background",
+      "presentation_id": "1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgVE2upms",
+      "slide_id": "g2f4a8b1c_2",
+      "color_hex": "#F8F9FA"
+    }
+  ],
+  "unresolved_references": [],
+  "validation_warnings": [],
+  "warnings": [
+    "All references resolved."
+  ],
+  "errors": []
+}

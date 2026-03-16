@@ -1,0 +1,22 @@
+{
+  "name": "corporate-blue-custom",
+  "colors": [
+    {"name": "primary", "hex_color": "#1A73E8"},
+    {"name": "secondary", "hex_color": "#34A853"},
+    {"name": "accent", "hex_color": "#FBBC04"},
+    {"name": "error", "hex_color": "#EA4335"}
+  ],
+  "title_font": {
+    "family": "Google Sans",
+    "size_pt": 36,
+    "bold": true,
+    "italic": false
+  },
+  "body_font": {
+    "family": "Google Sans",
+    "size_pt": 14,
+    "bold": false,
+    "italic": false
+  },
+  "background_color": "#FFFFFF"
+}

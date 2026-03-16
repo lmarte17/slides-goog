@@ -1,0 +1,201 @@
+{
+  "ok": true,
+  "presentation": {
+    "presentation_id": "1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgVE2upms",
+    "title": "Q1 2025 Quarterly Business Review",
+    "locale": "en",
+    "slide_width_emu": 9144000,
+    "slide_height_emu": 5143500,
+    "slide_count": 3,
+    "slides": [
+      {
+        "slide_id": "g2f4a8b1c_0",
+        "slide_index": 0,
+        "layout_name": "Title Slide",
+        "layout_object_id": "g2f4a8b1c_layout",
+        "master_object_id": "g2f4a8b1c_master",
+        "notes_text": "Welcome slide. Introduce yourself and the agenda.",
+        "background_color": "#1A73E8",
+        "elements": [
+          {
+            "element_id": "g2f4a8b1c_title",
+            "element_type": "shape",
+            "title": null,
+            "description": null,
+            "placeholder_type": "CENTERED_TITLE",
+            "size": {
+              "width": 8229600,
+              "height": 1600200,
+              "unit": "EMU"
+            },
+            "transform": {
+              "scale_x": 1.0,
+              "scale_y": 1.0,
+              "shear_x": 0.0,
+              "shear_y": 0.0,
+              "translate_x": 457200,
+              "translate_y": 1600200,
+              "unit": "EMU"
+            },
+            "text": {
+              "raw_text": "Q1 2025 Quarterly Business Review",
+              "paragraphs": [
+                {
+                  "runs": [
+                    {
+                      "content": "Q1 2025 Quarterly Business Review",
+                      "bold": true,
+                      "italic": false,
+                      "underline": false,
+                      "font_family": "Google Sans",
+                      "font_size_pt": 40.0,
+                      "foreground_color": "#FFFFFF",
+                      "link_url": null
+                    }
+                  ],
+                  "alignment": "CENTER",
+                  "space_above_pt": null,
+                  "space_below_pt": null
+                }
+              ]
+            },
+            "image": null,
+            "row_count": null,
+            "column_count": null
+          },
+          {
+            "element_id": "g2f4a8b1c_subtitle",
+            "element_type": "shape",
+            "title": null,
+            "description": null,
+            "placeholder_type": "SUBTITLE",
+            "size": {
+              "width": 8229600,
+              "height": 914400,
+              "unit": "EMU"
+            },
+            "transform": {
+              "scale_x": 1.0,
+              "scale_y": 1.0,
+              "shear_x": 0.0,
+              "shear_y": 0.0,
+              "translate_x": 457200,
+              "translate_y": 3428700,
+              "unit": "EMU"
+            },
+            "text": {
+              "raw_text": "Acme Corporation — January 2025",
+              "paragraphs": [
+                {
+                  "runs": [
+                    {
+                      "content": "Acme Corporation — January 2025",
+                      "bold": false,
+                      "italic": false,
+                      "underline": false,
+                      "font_family": "Google Sans",
+                      "font_size_pt": 18.0,
+                      "foreground_color": "#E8F0FE",
+                      "link_url": null
+                    }
+                  ],
+                  "alignment": "CENTER",
+                  "space_above_pt": null,
+                  "space_below_pt": null
+                }
+              ]
+            },
+            "image": null,
+            "row_count": null,
+            "column_count": null
+          }
+        ]
+      },
+      {
+        "slide_id": "g2f4a8b1c_1",
+        "slide_index": 1,
+        "layout_name": "Title and Body",
+        "layout_object_id": "g2f4a8b1c_layout_body",
+        "master_object_id": "g2f4a8b1c_master",
+        "notes_text": "Key financial highlights. Emphasize the ARR growth.",
+        "background_color": "#FFFFFF",
+        "elements": [
+          {
+            "element_id": "g2f4a8b1c_1_title",
+            "element_type": "shape",
+            "placeholder_type": "TITLE",
+            "size": {"width": 8229600, "height": 1143000, "unit": "EMU"},
+            "transform": {"scale_x": 1.0, "scale_y": 1.0, "shear_x": 0.0, "shear_y": 0.0, "translate_x": 457200, "translate_y": 274638, "unit": "EMU"},
+            "text": {
+              "raw_text": "Financial Highlights",
+              "paragraphs": [{"runs": [{"content": "Financial Highlights", "bold": true, "italic": false, "underline": false, "font_family": "Google Sans", "font_size_pt": 36.0, "foreground_color": "#1A73E8", "link_url": null}], "alignment": "LEFT"}]
+            },
+            "image": null,
+            "row_count": null,
+            "column_count": null,
+            "title": null,
+            "description": null
+          },
+          {
+            "element_id": "g2f4a8b1c_1_body",
+            "element_type": "shape",
+            "placeholder_type": "BODY",
+            "size": {"width": 8229600, "height": 3200400, "unit": "EMU"},
+            "transform": {"scale_x": 1.0, "scale_y": 1.0, "shear_x": 0.0, "shear_y": 0.0, "translate_x": 457200, "translate_y": 1600200, "unit": "EMU"},
+            "text": {
+              "raw_text": "ARR: $4.2M (+38% YoY)\nNew customers: 47\nChurn rate: 2.1%\nNPS score: 72",
+              "paragraphs": [
+                {"runs": [{"content": "ARR: $4.2M (+38% YoY)", "bold": false, "italic": false, "underline": false, "font_family": "Google Sans", "font_size_pt": 18.0, "foreground_color": "#212121", "link_url": null}], "alignment": "LEFT"},
+                {"runs": [{"content": "New customers: 47", "bold": false, "italic": false, "underline": false, "font_family": "Google Sans", "font_size_pt": 18.0, "foreground_color": "#212121", "link_url": null}], "alignment": "LEFT"},
+                {"runs": [{"content": "Churn rate: 2.1%", "bold": false, "italic": false, "underline": false, "font_family": "Google Sans", "font_size_pt": 18.0, "foreground_color": "#212121", "link_url": null}], "alignment": "LEFT"},
+                {"runs": [{"content": "NPS score: 72", "bold": false, "italic": false, "underline": false, "font_family": "Google Sans", "font_size_pt": 18.0, "foreground_color": "#212121", "link_url": null}], "alignment": "LEFT"}
+              ]
+            },
+            "image": null,
+            "row_count": null,
+            "column_count": null,
+            "title": null,
+            "description": null
+          }
+        ]
+      },
+      {
+        "slide_id": "g2f4a8b1c_2",
+        "slide_index": 2,
+        "layout_name": "Blank",
+        "layout_object_id": "g2f4a8b1c_layout_blank",
+        "master_object_id": "g2f4a8b1c_master",
+        "notes_text": null,
+        "background_color": "#FFFFFF",
+        "elements": [
+          {
+            "element_id": "g2f4a8b1c_2_logo",
+            "element_type": "image",
+            "placeholder_type": null,
+            "size": {"width": 1828800, "height": 685800, "unit": "EMU"},
+            "transform": {"scale_x": 1.0, "scale_y": 1.0, "shear_x": 0.0, "shear_y": 0.0, "translate_x": 3657600, "translate_y": 2228550, "unit": "EMU"},
+            "text": null,
+            "image": {
+              "content_url": "https://lh3.googleusercontent.com/acme-logo",
+              "source_url": null
+            },
+            "row_count": null,
+            "column_count": null,
+            "title": "Acme Logo",
+            "description": "Acme Corporation company logo"
+          }
+        ]
+      }
+    ],
+    "masters": [
+      {"master_id": "g2f4a8b1c_master", "name": "Corporate Blue"}
+    ],
+    "layouts": [
+      {"layout_id": "g2f4a8b1c_layout", "name": "Title Slide", "predefined_layout": "TITLE", "master_id": "g2f4a8b1c_master"},
+      {"layout_id": "g2f4a8b1c_layout_body", "name": "Title and Body", "predefined_layout": "TITLE_AND_BODY", "master_id": "g2f4a8b1c_master"},
+      {"layout_id": "g2f4a8b1c_layout_blank", "name": "Blank", "predefined_layout": "BLANK", "master_id": "g2f4a8b1c_master"}
+    ]
+  },
+  "warnings": [],
+  "errors": []
+}
